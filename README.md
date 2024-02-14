@@ -1,6 +1,6 @@
 # SHARK'S SHOPPING CART
 
-Implemented the same user interface provided in (https://startbootstrap.com/previews/shop-homepage)[https://startbootstrap.com/previews/shop-homepage]
+Implemented the same user interface provided in [https://startbootstrap.com/previews/shop-homepage](https://startbootstrap.com/previews/shop-homepage)
 
 Fullfilled all the requirements mentioned below:
  - The shopping cart should display a list of available products with their name and description.
@@ -11,4 +11,4 @@ Fullfilled all the requirements mentioned below:
  - When an item is removed from the cart, the cart quantity number should be decreased.
  - The "Remove from Cart" button should be changed back to the "Add to Cart" button once the item is removed from the cart.
 
-View the deployment (here)[https://shark-shopping-cart.netlify.app/]
+View the deployment [here](https://shark-shopping-cart.netlify.app/)
