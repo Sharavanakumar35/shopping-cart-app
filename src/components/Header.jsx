@@ -2,7 +2,7 @@ import React from 'react';
 
 function Header() {
   return (
-    <header className="py-5" style={{backgroundImage: 'url(./src/assets/comicsbg.jpg)'}}>
+    <header className="py-5" style={{backgroundImage: 'url("https://png.pngtree.com/background/20230521/original/pngtree-gallery-of-many-different-comic-books-on-a-wall-picture-image_2684279.jpg")'}}>
       <div className="container px-4 px-lg-5 my-5">
         <div className="text-center text-white">
         <h1 className="display-4 fw-bolder" style={{ textShadow: '0 0 3px #000, 0 0 5px #000' }}>Shark's Comic Collections</h1>
