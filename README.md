@@ -11,4 +11,4 @@ Fullfilled all the requirements mentioned below:
  - When an item is removed from the cart, the cart quantity number should be decreased.
  - The "Remove from Cart" button should be changed back to the "Add to Cart" button once the item is removed from the cart.
 
-View the code (here)[]
+View the deployment (here)[https://shark-shopping-cart.netlify.app/]
